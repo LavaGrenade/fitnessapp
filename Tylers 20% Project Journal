@@ -1,0 +1,137 @@
+Tylers 20% Project Journal 
+
+Journal Entry 1:2/5/2016      
+This week on our 20% project we did many things.  We developed the project idea, 
+a fitness app that randomly sets your workout and its times based on what you want to workout.  We
+wrote our app feature list, detailing the apps functions, workouts, and more
+specifically its features.  We also downloaded the Android Studio program to be
+able to make the actual app, also having to download the SKD because it told us
+to.  Currently we are doing online tutorials to learn how to use Android Studio
+in the most effective way.  We are also debating what to use for the app music
+as there may be copyright problems.  There is the option of remixing it or
+dropping a hot new track.  The proposal was also developed in the last week
+being approved by Mr. Schreiber.  That is what we did on our 20% project and
+will continue to work hard to develop our app and make it better than Jai and
+Joe's.
+
+Journal Entry 2:2/14/2016
+This week on our 20% project we did not do many things.  Our main focus was reinstalling 
+android studio and learning how to use it.  I took the tutorial on the Ray WenderLich site
+and Austing took the Linda site tutorial.  We messed around with Android Studio experimenting
+with its many features and how to fashion the app.  I also experienced difficulty in this
+as I had to reinstall Android Studio and update multiple times meaning I didn't get much
+time to practice with it.  Outside of class I also experimented with Android Studio, not only
+using it but reading about the commands and how it functions.  Other in class also seem to be
+having trouble with this program in many various ways.  I suspect that I, and others, will still
+have more troubles with this program in the near future.  This is my journal for this week and is
+over 150 words.
+
+Journal Entry 3:2/19/2016
+This week on our 20% project we again did very little.  I kept having problems with installing
+android studio which means I had a hard time learning how to use it.  Every time I install android
+studio I am able to use it for one session but once it closes out it says I must reinstall
+the program.  I mentally took more tutorials on android studio, this time many random ones that
+came from the homepage of google.  Outside of class I have been working on the feature list for
+the app and researching more things about fitness.  These things such as what workouts work
+what muscle groups, what foods you should eat, how much you should work out, and so on.  Just
+as I predicted last week, I am still having android studio issues along with many other people.
+This is my journal for this week and is over 150 words.
+
+Journal Entry 4:2/26/2016
+This week on our 20% project we did little but more than the last time.  We plan to work on the
+project this weekend to meet the first deliverable deadline of getting the app structure.  It seems
+I have sorted out all of my android studio issues as I have been able to use it for three seperate
+sessions without having to reinstall or update it now.  Again, we took more tutorials to familiarize
+ourselves with the language and we started doing the app.  We transfered the app feature list to
+github and presumably made the last changes to it.  Outside of class I asked people what the ideal
+workouts and features of this app should be and considered their feedback.  Disregarding some of it
+I incorporated it into the app feature list.  This is my journal for this week and is totally,
+definitely, for sure, totally not under 150 words.  P.S. This was 150 words before the stalling words,
+please don't take off points. I will cry.
+
+Journal Entry 5:3/6/2016
+This week on our 20% project we, yet again, did very very little.  The problems with my android studio
+have again arisen and I am not able to start it without reinstalling it.  We have recognized our problem
+that we don't get android studio in how to use it and understanding it in general.  Mr. Schreiber introduced
+Udacity, an online course for all things programing.  Austin and I have started taking the Android Beginner
+Development Course on Udacity and I am through the first lesson.  This next week we plan on actually making
+headway on the code and hopefully getting the app structure done.  Also, we will finish the Udacity tutorial.
+I plan to work on and hopefully fix my android studio problem of having to reinstall it every time I want to
+use it.  This is my journal entry for this week and is now equal to 150 words.
+
+Journal Entry 6:3/11/2016
+This week on our 20% project we again did very little to no on the app.  The problems with my android studio
+have stopped occuring.  However, I can't say they will continue to not occur as they have reoccured before.  I
+did reinstall android studio this time so the problem reoccuring would be unlikely.  I also have finished the
+first udacity tutorial and am planning on moving on to another one.  We plan to finish the i programmer tutorial
+and actually start working on the app structure at sometime within the next one to four weeks.  I do feel however
+that I am starting to understand how to use android studio but am frequently frustrated trying to open the API.
+Once we do this we will start to create the actual design aspects and the move on from there.  This is my journal
+entry for this week and now is over 150 words.
+
+Journal Entry 7:3/18/2016
+This week on our 20% project what we did was, Austin and I continued to work on our project, Austin has recently learned
+how to add the on click commands to the xml files.  I have completed most if not all the xml files and we have the 
+layout almost completly done.  The on click commands can be done in two different ways and Austin and I are currently 
+debating on which style to use.  I hope to use the on click command that runs through the xml coding and runs a method in 
+a seperate activity.  The activities still need to be made and coded in order to run the appropriate xml files.  Each activity 
+will need to be linked to an xml file and I plan on learning that next week. This concludes my development journal for this week 
+and it should now be equal to or greater than the 150 word requirement given by Schreiber.
+
+Journal Entry 8:4/1/2016
+This week and the past week over spring break Austin and I have gotten much done.  We have succesfully completed the layout 
+of our app and are now working on implementing the onclick commands for the buttons.  We have recently encountered a problem with the 
+git functionality on android studio but we plan on having schreiber help us with that on monday.  There appears to be a root problem 
+with some of the files but we hope to figure that out before monday.  Over the weekend I also plan to resolve the class issues, all 
+the class names are lower cased and I need to go through and capitalize every one of them.  That sounds like a pain but it needs to be 
+done.  This shall conclude my development journal for this week and it should now finally be equal to the one hundred fifty word 
+constraint.
+
+Journal Entry 9:4/8/2016
+This week and the past weeks on our 20% project everything again turned to crap.  The project has become FUBAR and we plan on taking
+the salvagable stuff and transferring it to a new project.  We are directly copying the xml files over and most of the java files
+also.  Some stuff is just going to have to be redone, such as all of the onclick methods.  Austin will be redoing all of the on click
+methods for each button and I will be re putting in all of the xml files.  Austin will make the java files and reconnect the to the
+xml files.  This shall conclude my development journal for this week or the week of April the third.
+
+Journal Entry 10:4/15/2016
+This week on our 20% project we have decided that fixing the old version of the project would take to long and it would be wise of us
+to start the project anew, salvaging everything we could.  Austin created a new version of the project and has started transferring all
+of the files over to the new project.  He posted it to the git hub repository that he has created, but I have been having issues cloning
+the repository so I can work on the project with him.  It won't let me get the actual files for the android app and won't let me edit
+any of the files that I can get.  I will elaborate on this issue more should it be a problem in the following weeks.  This is my project
+journal for this week, the week of April the 15th.
+
+Journal Entry 11:4/22/2016
+This week on Austin and my 20% project for the second semester of the school year, I did virtually nothing as I was unable to access the
+project.  While on Austin's computer the project was working so we finished transferring all of the old files to the new project on his
+computer.  While I tried again to clone the repository to my computer so I could access the project and work, it again did not work.  It
+wouldn't import any of the actual android app files( .xml's or java files) and it wouldn't let me edit or control anything. I further
+looked into this problem and could not find any way of solving it.  I tried importing directly from android studio and directly from
+github.  Also with git bash.  None of these tactics worked, so I was still not able to work on the project.  This is my project journal
+for this week, the week of April the 22nd.
+
+Journal Entry 12:4/29/2016
+This week on Austin and my 20% project I again did nothing as I could not access the project and was more focused on AP testing than
+getting the project working immediately.  Austin finished moving all of the files over to the new repository and started working on the
+on click for all of the pages.  He linked the buttons to the on clicks that would bring you to another page.  All that is left in the
+project is to format the last actual workout pages, add descriptions, and add a few more buttons.  This is my project journal for this
+week, the week of April the 29th.
+
+Journal Entry 13:5/6/2016
+This week on Austin and my 20% project I actually did some stuff, though I did little.  The git hub cloning had still not been working
+as per usual and since the AP tests are done I decided to actually do something about it.  So I brought my laptop into Schreiber and let
+him work his magic.  He did something and after waiting for a long time the project files for the actual app showed up.  It also let me
+edit all of the files.  I got started on finishing the specific pages for the last workouts and started putting in descriptions.  Austin
+will be doing the on click for the new pages along with all the other java code needed.  This is my project journal for this week, the week
+of May the 6th.
+
+Journal Entry 14:5/13/2016
+This week on the 20% project that Austin and I have been working on, mostly I spent my time upgrading android studio.  However, I also found
+that in the .xml files the id's for each of the buttons, image views, and text views are not working correctly.  It will not recognize the
+ID and I still need to look into that problem.  It might be the fact that I have the same ID's in different files but I do not think that
+is the problem.  This screws up the layout of all the pages in the Relative Layout format.  However, the files work on Austin's computer so
+it might be that I just needed to update my android studio version.  Regardless, I have made more of the actual workout files and continue
+to.  The new repository still appears to be working also, so that is an improvement.  We have started the process of writing the workout
+descriptions and finding images for each page.  After all of the pages are done, we will go back and put everything needed in.  This is my
+project journal for this week, the week of May the thirteenth.
