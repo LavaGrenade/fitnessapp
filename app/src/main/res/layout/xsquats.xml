@@ -7,7 +7,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Back"
+        android:text="@string/back_button"
         android:background="#76FF03"
         android:layout_margin="8dp"
         android:id="@+id/backButton"
@@ -15,17 +15,17 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="X Squats"
-        android:textSize="24dp"
+        android:text="@string/xSquats"
+        android:textSize="24sp"
         android:id="@+id/xSquatsPage"
-        android:layout_toRightOf="@+id/backButton"
+        android:layout_toEndOf="@+id/backButton"
+        android:layout_toRightOf="@id/backButton"
         android:paddingTop="16dp"/>
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="#cac099"
         android:layout_below="@+id/backButton"
-        android:layout_margin="8dp"
-        android:text="  X Squats are a workout that works your"/>
+        android:layout_margin="8dp" />
 
 </RelativeLayout>

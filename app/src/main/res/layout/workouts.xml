@@ -7,7 +7,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Back"
+        android:text="@string/back_button"
         android:background="#76FF03"
         android:layout_margin="8dp"
         android:id="@+id/backButton"
@@ -15,9 +15,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Customize Your Workout"
-        android:textSize="24dp"
+        android:text="@string/customize_your_workout"
+        android:textSize="24sp"
         android:id="@+id/customizeYourWorkout"
+        android:layout_toEndOf="@id/backButton"
         android:layout_toRightOf="@id/backButton"
         android:paddingTop="16dp"/>
     <Button
@@ -28,9 +29,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Abdominals"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/abdominals"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToAbdominals"/>
     <Button
         android:id="@+id/triceps"
@@ -40,9 +41,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Triceps"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/triceps"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToTriceps"/>
     <Button
         android:id="@+id/biceps"
@@ -52,9 +53,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Biceps"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/biceps"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToBiceps"/>
     <Button
         android:id="@+id/gluteusMuscles"
@@ -64,9 +65,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Gluteus Muscles"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/gluteus_muscles"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToButts"/>
     <Button
         android:id="@+id/quadriceps"
@@ -76,9 +77,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Quadriceps"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/quadriceps"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToQuadriceps"/>
     <Button
         android:id="@+id/shoulders"
@@ -88,9 +89,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Shoulders"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/shoulders"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToShoulders"/>
     <Button
         android:id="@+id/pectorals"
@@ -100,9 +101,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Pectorals"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/pectorals"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToPectorals"/>
     <Button
         android:id="@+id/calves"
@@ -112,9 +113,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Calves"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/calves"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToCalves"/>
     <Button
         android:id="@+id/back"
@@ -124,8 +125,8 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Back"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/back"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToBack"/>
 </RelativeLayout>

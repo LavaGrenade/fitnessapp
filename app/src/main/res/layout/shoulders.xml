@@ -7,7 +7,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Back"
+        android:text="@string/back_button"
         android:background="#76FF03"
         android:layout_margin="8dp"
         android:id="@+id/backButton"
@@ -15,9 +15,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Shoulders"
-        android:textSize="24dp"
+        android:text="@string/shoulders"
+        android:textSize="24sp"
         android:id="@+id/shouldersPage"
+        android:layout_toEndOf="@id/backButton"
         android:layout_toRightOf="@id/backButton"
         android:paddingTop="16dp"/>
     <Button
@@ -28,9 +29,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Windmills"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/windmills"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToWindmills"/>
     <Button
         android:id="@+id/wallSits"
@@ -40,8 +41,8 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Wall Sits"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/wall_sits"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToWallSits"/>
 </RelativeLayout>
