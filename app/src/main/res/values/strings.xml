@@ -62,5 +62,6 @@
     <string name="flutterKicksDesc">A workout where you lay face down on a raised platform and move your legs up in down in a kicking motion, working out the gluteus muscles.</string>
     <string name="tricepDipsDesc">Using a chair or something similar place your hands palms down facing the chair and slowly lower yourself using your arms and then slowly raise yourself back up, working out mainly the triceps.</string>
     <string name="burpeesDesc">A combo move where you start with a pushup and then transition into a jumping jack and then back to a push up, working out mainly the quads, pecs, hamstrings, triceps.</string>
+    <string name="lungesDesc">An exercise where you take a step forward and then lower yourself bringing your knees to a 90 degree angle.  Your back leg should also be at a 90 degree angle to the floor, working out mainly the glutes and core.</string>
 
 </resources>
