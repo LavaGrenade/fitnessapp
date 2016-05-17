@@ -53,4 +53,5 @@
     <string name="times">Times</string>
     <string name="forearmPlanksDesc">An exercise where you lay on the floor using your forearms for support and attempting to keep your back straight, working out mainly the core muscles.</string>
     <string name="handPlanksDesc">A plank where you use your hands for support, working out mainly the core muscles and pecs.</string>
+    <string name="sidePlanksDesc">A plank where you support yourself with one arm leaning to the side, working out mainly the deltoid muscle.</string>
 </resources>
