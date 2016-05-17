@@ -35,4 +35,20 @@
     <string name="wide_armed_push_ups">Wide Armed Push Ups</string>
     <string name="tricep_push_ups">Tricep Push Ups</string>
     <string name="diamond_push_ups">Diamond Push Ups</string>
+    <string name="planks">Planks</string>
+    <string name="forearm_planks">Forearm Planks</string>
+    <string name="hand_planks">Hand Planks</string>
+    <string name="lay_z_boy">Lay Z Boy</string>
+    <string name="hyper_extensions">Hyper Extensions</string>
+    <string name="flutter_kicks">Flutter Kicks</string>
+    <string name="crunches">Crunches</string>
+    <string name="calf_raises">Calf Raises</string>
+    <string name="high_knees">High Knees</string>
+    <string name="jump_knee_tucks">Jump Knee Tucks</string>
+    <string name="bicycles">Bicycles</string>
+    <string name="advanced_reach">Advanced Reach</string>
+    <string name="title">Thirty Second of Mayhem</string>
+    <string name="subtitle">Tailor your workouts to what's good for you</string>
+    <string name="workouts">Workouts</string>
+    <string name="times">Times</string>
 </resources>

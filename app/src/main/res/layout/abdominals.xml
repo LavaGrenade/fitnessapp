@@ -7,7 +7,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Back"
+        android:text="@string/back_button"
         android:background="#76FF03"
         android:layout_margin="8dp"
         android:id="@+id/backButton"
@@ -15,9 +15,10 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Abdominals"
-        android:textSize="24dp"
+        android:text="@string/abdominals"
+        android:textSize="24sp"
         android:id="@+id/abdominalsPage"
+        android:layout_toEndOf="@id/backButton"
         android:layout_toRightOf="@id/backButton"
         android:paddingTop="16dp"/>
     <Button
@@ -28,9 +29,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Push Ups"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/push_ups"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToPushUps"/>
     <Button
         android:id="@+id/planks"
@@ -40,9 +41,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Planks"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/planks"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToPlanks"/>
     <Button
         android:id="@+id/crunches"
@@ -52,9 +53,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Crunches"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/crunches"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToCrunches"/>
     <Button
         android:id="@+id/sitUps"
@@ -64,9 +65,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Sit Ups"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/sit_ups"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToSitUps"/>
     <Button
         android:id="@+id/laZBoy"
@@ -76,9 +77,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Lay-Z-Boy"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/lay_z_boy"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToLazyBoy"/>
     <Button
         android:id="@+id/supermans"
@@ -88,9 +89,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Supermans"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/supermans"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToSupermans"/>
     <Button
         android:id="@+id/russianTwists"
@@ -100,9 +101,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Russian Twists"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/russian_twists"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToRussia"/>
     <Button
         android:id="@+id/bicycles"
@@ -112,9 +113,9 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Bicycles"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/bicycles"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToBicycle"/>
     <Button
         android:id="@+id/flutterKicks"
@@ -124,8 +125,8 @@
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:paddingTop="13dp"
-        android:text="Flutter Kicks"
-        android:textSize="16dp"
-        android:gravity="left"
+        android:text="@string/flutter_kicks"
+        android:textSize="16sp"
+        android:gravity="start"
         android:onClick="goToFlutterKicks"/>
 </RelativeLayout>
