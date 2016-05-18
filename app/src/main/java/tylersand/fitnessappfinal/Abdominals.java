@@ -1,4 +1,4 @@
-package com.example.austinemerick.fitnessapp;
+package tylersand.fitnessappfinal;
 
 /**
  * Created by Austin Emerick on 4/16/2016.

@@ -1,5 +1,4 @@
-package com.example.austinemerick.fitnessapp;
-
+package tylersand.fitnessappfinal;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
