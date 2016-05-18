@@ -27,6 +27,6 @@
         android:background="#cac099"
         android:layout_below="@+id/backButton"
         android:layout_margin="8dp"
-        android:text=""/>
+        android:text="@string/sealJacksDesc"/>
 
 </RelativeLayout>
