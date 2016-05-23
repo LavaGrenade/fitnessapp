@@ -22,8 +22,7 @@
         android:text="@string/subtitle"
         android:textSize="24sp"
         android:layout_weight="0"
-        android:gravity="center"
-        />
+        android:gravity="center" />
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
